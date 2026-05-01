@@ -5,6 +5,8 @@ This project analyzes sales, customer behavior, and payment trends within Nova S
 This project analyzes sales, customer behavior, and payment trends within Nova Stores to uncover key revenue drivers and growth opportunities.
 The analysis reveals strong brand concentration, market-driven revenue distribution, and clear opportunities to optimize payments, pricing strategy, and customer targeting.
 
+![](https://github.com/Adewale-Adeyemi-Ojomo/Nova-Stores-Sales-Performance-Customer-Insights-Analysis/blob/main/Novastore%20Dashboard.png)
+
 ## Key Insights
 # 1. Brand Concentration Drives Revenue
 Top-performing brands like Nike and Adidas contribute a significant share of total revenue.
