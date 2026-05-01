@@ -1,5 +1,6 @@
 # Nova-Stores-Sales-Performance-Customer-Insights-Analysis
 This project analyzes sales, customer behavior, and payment trends within Nova Stores to uncover key revenue drivers and growth opportunities.
+![](https://github.com/Adewale-Adeyemi-Ojomo/Nova-Stores-Sales-Performance-Customer-Insights-Analysis/blob/main/Home%20Page.png)
 
 ## Executive Summary
 This project analyzes sales, customer behavior, and payment trends within Nova Stores to uncover key revenue drivers and growth opportunities.
